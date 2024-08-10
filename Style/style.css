@@ -79,7 +79,7 @@ html {
 }
 /*-------Home Page Main Background Section-------*/
 .background {
-  background-image: url("/Images/Main Background.png");
+  background-image: url("//Images/Main Background.png");
   background-size: cover;
   background-position: center;
   display: flex;
